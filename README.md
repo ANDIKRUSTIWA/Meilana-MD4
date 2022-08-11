@@ -26,9 +26,9 @@
 
 var ran = `
 
-Name               : Koko Pangeran
-Age                : 20
-Gender             : Male
+Name               : ANDIKA 
+Age                : 16
+Gender             : Cianjur 
 From               : indonesian 🇮🇩
 Currently learning : Js, html, css
 `
