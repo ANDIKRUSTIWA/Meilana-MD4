@@ -6,7 +6,8 @@ let pulsa = global.pulsa
 let gopay = global.gopay
 let numberowner = global.numberowner
 let anu = `Hallo mypren 👋
-*MAAF KAK FITUR JADIBOT TIDAK ADA DI DALAM FITUR KAMI*
+*MAAF KAK FITUR JADIBOT j
+TIDAK ADA DI DALAM FITUR KAMI*
 ⟩» *Kalau kakak mau jadi bot silahkan jasa run aja kak*
           
 ━━━〔 ıll *HARGA* llı 〕━━㉿
@@ -28,7 +29,7 @@ Jika anda berminat hubungi nomor di bawah!!
 ⟩» *jangan lupa donasi kak* «⟨
 Terimakasih yang sudah mendonasikan untuk bot
 Contact person jasa run:
-wa.me/79811950242 (ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×)
+wa.me/6289518965891 (ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×)
 *Follow Instagram ku juga kak😼*`
   conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'Sewa Meii-MD', '.sewa', m) 
 }
