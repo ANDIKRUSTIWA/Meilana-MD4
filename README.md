@@ -1,4 +1,4 @@
-<h1 align="left">ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ</h1>
+<h1 align="left">XYZTZDIKBOT-MD</h1>
 
 
 <p align="center">
